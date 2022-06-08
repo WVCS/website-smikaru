@@ -1,3 +1,47 @@
-body {
+  body{
+  background-color:#E7C8DD;
+}
 
+ul{
+  list-style-type:none;
+  width: 200%;
+  text-align:center;
+  position:fixed;
+}
+
+li{
+  float:left;
+}
+
+li a{
+  color:#563440;
+  padding: 20px;
+  font-family:"Courier New", Sans Serif;
+  text-decoration-line: none;
+  border: 3px dashed white;
+}
+
+li a:hover{
+  background-color:white;
+  color:#81AE9D;
+}
+
+h1{
+  color:#81AE9D;
+  font-size: 500%;
+  letter-spacing: 2px;
+  font-family:"Courier New", Sans Serif;
+  text-decoration-line: underline;
+}
+p{
+  color:#563440;
+  font-family:"Courier New", Sans Serif;
+  font-size:200%;
+}
+img{
+  width:40%;
+  border:dashed #81AE9D 10px;
+}
+iframe{
+  
 }
